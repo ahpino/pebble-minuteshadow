@@ -1,0 +1,21 @@
+{
+    "appKeys": {
+        "HORIZONTAL_SHADOW": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "ahpino@gmail.com",
+    "longName": "MinuteShadow",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "MinuteShadow",
+    "uuid": "3bcc8c05-9313-4bb6-a091-6ace60c868c1",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
